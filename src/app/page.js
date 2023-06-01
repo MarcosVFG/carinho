@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <Image
-        src="/dedo.png"
+        src="/qrcode.jpg"
         width={200}
         height={200}
         alt="QR CODE"
